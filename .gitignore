@@ -1,5 +1,10 @@
+# Obsidian & Plugin Configurations
 .obsidian/
+.smart-env/
+
+# Personal & Confidential Folders
 06 - Personal & Docs/
 
-/⁠06 - Personal & Docs/
-/⁠06 - Personal & Docs/
+# OS Generated Files
+.DS_Store
+Thumbs.db
