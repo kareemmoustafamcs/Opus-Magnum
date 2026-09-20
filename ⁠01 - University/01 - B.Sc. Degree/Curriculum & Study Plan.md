@@ -1,18 +1,18 @@
-# Pure Mathematics and Computer Science Program (Dual Major - 140 Credit Hours)
+# 🎓 Pure Mathematics and Computer Science Program (Dual Major - 140 Credit Hours)
 
-## Credit Hours Overview
+## 📊 Credit Hours Overview
 
 | Level | Semester 1 Credit Hours | Semester 2 Credit Hours | Total Credit Hours per Level |
 | :--- | :---: | :---: | :---: |
-| **First Level** | 16 | 17 | 33 |
-| **Second Level** | 18 | 17 | 35 |
-| **Third Level** | 18 | 17 | 35 |
-| **Fourth Level** | 19 | 18 | 37 |
+| **First Level** | 16 | 17 | **33** |
+| **Second Level** | 18 | 17 | **35** |
+| **Third Level** | 18 | 17 | **35** |
+| **Fourth Level** | 19 | 18 | **37** |
 | **Total Program Credit Hours** | | | **140** |
 
 ---
 
-## First Level — Semester 1
+## 🥇 First Level — Semester 1
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -27,7 +27,7 @@
 
 ---
 
-## First Level — Semester 2
+## 🥇 First Level — Semester 2
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -42,7 +42,7 @@
 
 ---
 
-## Second Level — Semester 1
+## 🥈 Second Level — Semester 1
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -56,7 +56,7 @@
 
 ---
 
-## Second Level — Semester 2
+## 🥈 Second Level — Semester 2
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -74,7 +74,7 @@
 
 ---
 
-## Third Level — Semester 1
+## 🥉 Third Level — Semester 1
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -95,7 +95,7 @@
 
 ---
 
-## Third Level — Semester 2
+## 🥉 Third Level — Semester 2
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -111,7 +111,7 @@
 
 ---
 
-## Fourth Level — Semester 1
+## 🏆 Fourth Level — Semester 1
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -133,7 +133,7 @@
 
 ---
 
-## Fourth Level — Semester 2
+## 🏆 Fourth Level — Semester 2
 
 | Course Status | Course Code | Course Name | Lec (Th) | Tut (T) | Lab (P) | Credit Hours | Written | Midterm | Oral | Practical | Total Marks | Prerequisites |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
