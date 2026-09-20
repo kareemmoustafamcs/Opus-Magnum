@@ -2,14 +2,17 @@
 .obsidian/
 .smart-env/
 
-# Personal & Confidential Folders
-06 - Personal & Docs/
-06 - Personal & Docs/Accounts & Emails/
-
-# Confidential Files
-Personal Accounts Credentials.md
-University Portal Credentials.md
-
 # OS Generated Files
 .DS_Store
 Thumbs.db
+
+# Specific Confidential Folders
+06 - Personal & Docs/
+06 - Personal & Docs/Accounts & Emails/
+
+# Specific Confidential Files (Targeted)
+06 - Personal & Docs/Accounts & Emails/Personal Credentials.md
+06 - Personal & Docs/Accounts & Emails/University Credentials.md
+
+# General Wildcards for Extra Safety
+*Credentials*.md
