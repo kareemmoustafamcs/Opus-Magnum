@@ -1,95 +1,72 @@
 ---
-title: Physics Program Schedule - First Level F1-F2-F3
-faculty: Faculty of Science - Ain Shams University
-office: Office of the Vice Dean for Education and Students Affairs
+title: Physics F2 - My Weekly Schedule
+author: Kareem Moustafa
+group: F2
+program: Physics - First Level
 semester: Autumn
-level: 1
-groups: [F1, F2, F3]
-tags: [schedule, physics, level-1, autumn]
+faculty: Faculty of Science - Ain Shams
+days_on_campus: 4
+off_days: [Wednesday, Friday, Sunday]
+total_credits: 17
+tags: [university, physics, F2, schedule, level-1]
 created: 2026-09-24
+cssclasses: [clean-table]
 ---
 
-# Physics Program (F1 - F2 - F3) - First Level - Autumn
+# 🎓 My Schedule - Physics F2
 
-## Master Schedule - Grouped
+> [!INFO] Overview
+> **Group:** F2 | **Days:** 4 Days / Week | **Longest Day:** Saturday 8:00 AM - 6:00 PM
+> **Free:** Wednesday is completely OFF
 
-| Day | Type | Course Code | Credits | Time Slot | Course Name | Group | Location |
-| :--- | :--- | :--- | :---: | :--- | :--- | :--- | :--- |
-| **Saturday** | Lab | CHEM 103 | 3 | 08:00 - 11:00 | General Chemistry | F2 | Department |
-| | Lab | PHYS 101 | 3 | 11:00 - 14:00 | General Physics (1) | F2 | Department |
-| | Tutorial | MATH 101 | 2 | 15:00 - 17:00 | Calculus (1) | F2 | Hall (5) |
-| | Lecture | ASU 101 | 1 | 17:00 - 18:00 | Societal Issues | Common | Noh Hall |
-| **Monday** | Lecture | PHYS 101 | 3 | 08:00 - 11:00 | General Physics (1) | Common | Noh Amphitheater |
-| | Tutorial | MATH 101 | 2 | 11:00 - 13:00 | Mathematics Tutorial | F1 | Hall (2) |
-| | Lab | PHYS 101 | 3 | 14:00 - 17:00 | General Physics (1) | F1 | Department |
-| | Lecture | SAFS 101 | 1 | 17:00 - 18:00 | Safety and Security | Common | Noh Amphitheater |
-| **Tuesday** | Lab | CHEM 103 | 3 | 08:00 - 11:00 | General Chemistry | F1 | Department |
-| | Tutorial | PHYS 103 | 1 | 13:00 - 14:00 | General Physics (2) | F1 | Hegazy Amphitheater |
-| | Lecture | PHYS 103 | 3 | 14:00 - 17:00 | General Physics (2) | Common | Hegazy Amphitheater |
-| **Wednesday** | Lab | PHYS 101 | 3 | 08:00 - 11:00 | General Physics (1) | F3 | Department |
-| | Lab | CHEM 103 | 3 | 11:00 - 14:00 | General Chemistry | F3 | Department |
-| | Tutorial | MATH 101 | 2 | 14:00 - 16:00 | Mathematics Tutorial | F3 | Hall (3) |
-| **Thursday** | Lecture | MATH 101 | 3 | 08:00 - 11:00 | Calculus (1) | Common | Noh Hall |
-| | Lecture | CHEM 101 | 3 | 11:00 - 14:00 | General Chemistry (1) | Common | Noh Hall |
+## 📅 Weekly Master - F2 Only
 
-## Daily Breakdown
+| Day | Type | Code | Hours | Time | Course | Location |
+| :--- | :--- | :--- | :---: | :--- | :--- | :--- |
+| **Saturday** | Lab | CHEM 103 | 3 | 8:00 AM - 11:00 AM | General Chemistry | Department |
+| | Lab | PHYS 101 | 3 | 11:00 AM - 2:00 PM | General Physics (1) | Department |
+| | Tutorial | MATH 101 | 2 | 3:00 PM - 5:00 PM | Calculus (1) | Hall (5) |
+| | Lecture | ASU 101 | 1 | 5:00 PM - 6:00 PM | Societal Issues | Noh Hall |
+| **Monday** | Lecture | PHYS 101 | 3 | 8:00 AM - 11:00 AM | General Physics (1) | Noh Amphitheater |
+| | Lecture | SAFS 101 | 1 | 5:00 PM - 6:00 PM | Safety & Security | Noh Amphitheater |
+| **Tuesday** | Lecture | PHYS 103 | 3 | 2:00 PM - 5:00 PM | General Physics (2) | Hegazy Amphitheater |
+| **Thursday** | Lecture | MATH 101 | 3 | 8:00 AM - 11:00 AM | Calculus (1) | Noh Hall |
+| | Lecture | CHEM 101 | 3 | 11:00 AM - 2:00 PM | General Chemistry (1) | Noh Hall |
 
-> [!NOTE] Saturday
-> | Type | Code | Time | Course | Group | Location |
-> | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Lab | CHEM 103 | 08:00 - 11:00 | General Chemistry | F2 | Department |
-> | Lab | PHYS 101 | 11:00 - 14:00 | General Physics (1) | F2 | Department |
-> | Tutorial | MATH 101 | 15:00 - 17:00 | Calculus (1) | F2 | Hall (5) |
-> | Lecture | ASU 101 | 17:00 - 18:00 | Societal Issues | Common | Noh Hall |
+## 🗓️ Day by Day
 
-> [!NOTE] Monday
-> | Type | Code | Time | Course | Group | Location |
-> | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Lecture | PHYS 101 | 08:00 - 11:00 | General Physics (1) | Common | Noh Amphitheater |
-> | Tutorial | MATH 101 | 11:00 - 13:00 | Mathematics Tutorial | F1 | Hall (2) |
-> | Lab | PHYS 101 | 14:00 - 17:00 | General Physics (1) | F1 | Department |
-> | Lecture | SAFS 101 | 17:00 - 18:00 | Safety and Security | Common | Noh Amphitheater |
+> [!EXAMPLE] Saturday - Full Day 8 AM - 6 PM
+> - [ ] 8:00 AM - 11:00 AM | **CHEM 103 Lab** @ Department
+> - [ ] 11:00 AM - 2:00 PM | **PHYS 101 Lab** @ Department
+> - [ ] 3:00 PM - 5:00 PM | **MATH 101 Tutorial** @ Hall (5)
+> - [ ] 5:00 PM - 6:00 PM | **ASU 101 Lecture** @ Noh Hall
 
-> [!NOTE] Tuesday
-> | Type | Code | Time | Course | Group | Location |
-> | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Lab | CHEM 103 | 08:00 - 11:00 | General Chemistry | F1 | Department |
-> | Tutorial | PHYS 103 | 13:00 - 14:00 | General Physics (2) | F1 | Hegazy Amphitheater |
-> | Lecture | PHYS 103 | 14:00 - 17:00 | General Physics (2) | Common | Hegazy Amphitheater |
+> [!NOTE] Monday - Morning + Evening
+> - [ ] 8:00 AM - 11:00 AM | **PHYS 101 Lecture** @ Noh Amphitheater
+> - [ ] 5:00 PM - 6:00 PM | **SAFS 101 Lecture** @ Noh Amphitheater
+> Free Gap: 11:00 AM - 5:00 PM
 
-> [!NOTE] Wednesday
-> | Type | Code | Time | Course | Group | Location |
-> | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Lab | PHYS 101 | 08:00 - 11:00 | General Physics (1) | F3 | Department |
-> | Lab | CHEM 103 | 11:00 - 14:00 | General Chemistry | F3 | Department |
-> | Tutorial | MATH 101 | 14:00 - 16:00 | Mathematics Tutorial | F3 | Hall (3) |
+> [!TIP] Tuesday - One Lecture
+> - [ ] 2:00 PM - 5:00 PM | **PHYS 103 Lecture** @ Hegazy Amphitheater
+> Morning OFF
 
-> [!NOTE] Thursday
-> | Type | Code | Time | Course | Group | Location |
-> | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Lecture | MATH 101 | 08:00 - 11:00 | Calculus (1) | Common | Noh Hall |
-> | Lecture | CHEM 101 | 11:00 - 14:00 | General Chemistry (1) | Common | Noh Hall |
+> [!SUCCESS] Thursday - Early Finish
+> - [ ] 8:00 AM - 11:00 AM | **MATH 101 Lecture** @ Noh Hall
+> - [ ] 11:00 AM - 2:00 PM | **CHEM 101 Lecture** @ Noh Hall
+> Done by 2:00 PM
 
-## Filtered by Group
+## 📊 Stats
 
-### F1
-- [ ] Mon 11:00-13:00 | MATH 101 Tutorial - Hall (2)
-- [ ] Mon 14:00-17:00 | PHYS 101 Lab - Department
-- [ ] Tue 08:00-11:00 | CHEM 103 Lab - Department
-- [ ] Tue 13:00-14:00 | PHYS 103 Tutorial - Hegazy Amphitheater
+| Metric | Value |
+| :--- | :--- |
+| Total Days | 4 |
+| Total Hours / Week | 17 Hrs |
+| Longest Day | Saturday - 9 Hrs |
+| Shortest Day | Tuesday - 3 Hrs |
+| Off Days | Wed, Fri, Sun |
 
-### F2
-- [ ] Sat 08:00-11:00 | CHEM 103 Lab - Department
-- [ ] Sat 11:00-14:00 | PHYS 101 Lab - Department
-- [ ] Sat 15:00-17:00 | MATH 101 Tutorial - Hall (5)
-
-### F3
-- [ ] Wed 08:00-11:00 | PHYS 101 Lab - Department
-- [ ] Wed 11:00-14:00 | CHEM 103 Lab - Department
-- [ ] Wed 14:00-16:00 | MATH 101 Tutorial - Hall (3)
-
-## Location Legend
-- Department = Department Labs
-- Hall (2/3/5) = Lecture Hall
-- Noh Hall / Noh Amphitheater = Noh Building
-- Hegazy Amphitheater = Hegazy Building
+## 📍 Location Legend
+- **Department** = Department Labs
+- **Hall (5)** = Building Hall 5
+- **Noh Hall / Noh Amphitheater** = Noh Building
+- **Hegazy Amphitheater** = Hegazy Building
