@@ -21,17 +21,17 @@ cssclasses: [clean-table]
 
 ## 📅 Weekly Master - F2 Only
 
-| Day | Type | Code | Hours | Time | Course | Location |
-| :--- | :--- | :--- | :---: | :--- | :--- | :--- |
-| **Saturday** | Lab | CHEM 103 | 3 | 8:00 AM - 11:00 AM | General Chemistry | Department |
-| | Lab | PHYS 101 | 3 | 11:00 AM - 2:00 PM | General Physics (1) | Department |
-| | Tutorial | MATH 101 | 2 | 3:00 PM - 5:00 PM | Calculus (1) | Hall (5) |
-| | Lecture | ASU 101 | 1 | 5:00 PM - 6:00 PM | Societal Issues | Noh Hall |
-| **Monday** | Lecture | PHYS 101 | 3 | 8:00 AM - 11:00 AM | General Physics (1) | Noh Amphitheater |
-| | Lecture | SAFS 101 | 1 | 5:00 PM - 6:00 PM | Safety & Security | Noh Amphitheater |
-| **Tuesday** | Lecture | PHYS 103 | 3 | 2:00 PM - 5:00 PM | General Physics (2) | Hegazy Amphitheater |
-| **Thursday** | Lecture | MATH 101 | 3 | 8:00 AM - 11:00 AM | Calculus (1) | Noh Hall |
-| | Lecture | CHEM 101 | 3 | 11:00 AM - 2:00 PM | General Chemistry (1) | Noh Hall |
+| Day          | Type     | Code     | Hours | Time               | Course                | Location            |
+| :----------- | :------- | :------- | :---: | :----------------- | :-------------------- | :------------------ |
+| **Saturday** | Lab      | CHEM 103 |   3   | 8:00 AM - 11:00 AM | General Chemistry     | Department          |
+|              | Lab      | PHYS 101 |   3   | 11:00 AM - 2:00 PM | General Physics (1)   | Department          |
+|              | Tutorial | MATH 101 |   2   | 3:00 PM - 5:00 PM  | Calculus (1)          | Hall (5)            |
+|              | Lecture  | ASU 101  |   1   | 5:00 PM - 6:00 PM  | Societal Issues       | Noh Hall            |
+| **Monday**   | Lecture  | PHYS 101 |   3   | 8:00 AM - 11:00 AM | General Physics (1)   | Noh Amphitheater    |
+|              | Lecture  | SAFS 101 |   1   | 5:00 PM - 6:00 PM  | Safety & Security     | Noh Amphitheater    |
+| **Tuesday**  | Lecture  | PHYS 103 |   3   | 2:00 PM - 5:00 PM  | General Physics (2)   | Hegazy Amphitheater |
+| **Thursday** | Lecture  | MATH 101 |   3   | 8:00 AM - 11:00 AM | Calculus (1)          | Noh Hall            |
+|              | Lecture  | CHEM 101 |   3   | 11:00 AM - 2:00 PM | General Chemistry (1) | Noh Hall            |
 
 ## 🗓️ Day by Day
 
