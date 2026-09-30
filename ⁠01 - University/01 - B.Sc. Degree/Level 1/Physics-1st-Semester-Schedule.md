@@ -1,26 +1,19 @@
 ---
-tags:
-  - university
-  - schedule
-  - physics
-  - F2
-  - dashboard
-aliases:
+tags: [university, schedule, physics, dashboard]
+aliases: [Physics - 1st Semester Schedule]
 created: 2026-09-30
 updated: 2026-09-30
-cssclasses:
-  - cards
-  - wide
+cssclasses: [cards, wide]
 ---
 
 <div align="center">
 
-# 💎 PHYSICS · GROUP F2
+# 💎 PHYSICS
 ## <span style="color:#8b5cf6">Weekly Master Schedule</span>
 ### Faculty of Science — Ain Shams University
 *Fall 2026 · Semester 1*
 
-<span style="background:#8b5cf6;color:white;padding:4px 14px;border-radius:20px"><b>F2</b></span> <span style="background:#06b6d4;color:white;padding:4px 14px;border-radius:20px"><b>PHYSICS</b></span> <span style="background:#f59e0b;color:white;padding:4px 14px;border-radius:20px"><b>2026</b></span>
+<span style="background:#06b6d4;color:white;padding:4px 14px;border-radius:20px"><b>PHYSICS</b></span> <span style="background:#f59e0b;color:white;padding:4px 14px;border-radius:20px"><b>2026</b></span>
 
 </div>
 
