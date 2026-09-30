@@ -94,13 +94,13 @@ cssclasses: [cards, wide]
 
 | Code | Course | Format | Load |
 |:----:|--------|--------|------|
-| <span style="background:#dbeafe;color:#1e40af;padding:2px 8px;border-radius:10px"><b>PHYS 101</b></span> | General Physics (1) | Lecture + Lab | 6h |
-| <span style="background:#dcfce7;color:#166534;padding:2px 8px;border-radius:10px"><b>PHYS 103</b></span> | General Physics (2) | Lecture + Tutorial | 4h |
-| <span style="background:#fef3c7;color:#92400e;padding:2px 8px;border-radius:10px"><b>CHEM 101</b></span> | General Chemistry (1) | Lecture | 3h |
-| <span style="background:#fce7f3;color:#9d174d;padding:2px 8px;border-radius:10px"><b>CHEM 103</b></span> | General Chemistry Lab | Lab · Biweekly | 3h / 2 weeks |
-| <span style="background:#e0e7ff;color:#3730a3;padding:2px 8px;border-radius:10px"><b>MATH 101</b></span> | Calculus (1) | Lecture + Tutorial | 5h |
-| <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:10px"><b>ASU 101</b></span> | Societal Issues | Lecture | 1h |
-| <span style="background:#f3f4f6;color:#374151;padding:2px 8px;border-radius:10px"><b>SAFS 101</b></span> | Safety & Security | Lecture | 1h |
+| <span style="background:#dbeafe;color:#1e40af;padding:2px 8px;border-radius:10px;white-space:nowrap;display:inline-block"><b>PHYS 101</b></span> | General Physics (1) | Lecture + Lab | 6h |
+| <span style="background:#dcfce7;color:#166534;padding:2px 8px;border-radius:10px;white-space:nowrap;display:inline-block"><b>PHYS 103</b></span> | General Physics (2) | Lecture + Tutorial | 4h |
+| <span style="background:#fef3c7;color:#92400e;padding:2px 8px;border-radius:10px;white-space:nowrap;display:inline-block"><b>CHEM 101</b></span> | General Chemistry (1) | Lecture | 3h |
+| <span style="background:#fce7f3;color:#9d174d;padding:2px 8px;border-radius:10px;white-space:nowrap;display:inline-block"><b>CHEM 103</b></span> | General Chemistry Lab | Lab · Biweekly | 3h / 2 weeks |
+| <span style="background:#ede9fe;color:#5b21b6;padding:2px 8px;border-radius:10px;white-space:nowrap;display:inline-block"><b>MATH 101</b></span> | Calculus (1) | Lecture + Tutorial | 5h |
+| <span style="background:#ccfbf1;color:#0f766e;padding:2px 8px;border-radius:10px;white-space:nowrap;display:inline-block"><b>ASU 101</b></span> | Societal Issues | Lecture | 1h |
+| <span style="background:#ffedd5;color:#9a3412;padding:2px 8px;border-radius:10px;white-space:nowrap;display:inline-block"><b>SAFS 101</b></span> | Safety & Security | Lecture | 1h |
 
 ---
 
