@@ -1,9 +1,16 @@
 ---
-tags: [university, schedule, physics, F2, dashboard]
-aliases: [F2 Luxury Schedule]
+tags:
+  - university
+  - schedule
+  - physics
+  - F2
+  - dashboard
+aliases:
 created: 2026-09-30
 updated: 2026-09-30
-cssclasses: [cards, wide]
+cssclasses:
+  - cards
+  - wide
 ---
 
 <div align="center">
